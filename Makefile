@@ -1,7 +1,7 @@
 C = $(CROSSPREFIX)gcc
 
-PROGRAM = build/bsod.exe
-OBJECTS = build/obj/bsod.o
+PROGRAM = bsod.exe
+OBJECTS = bsod.o
 SOURCE = src/bsod.c
 
 INCLUDEDIR = 
