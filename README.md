@@ -18,6 +18,11 @@ To fix an infected machine, follow the steps below:
 
 That's it!
 
+Downloads
+=========
+This software only supports 64-bit Windows.
+Releases can be found here: <https://github.com/szzhouxd/BSoDForever/releases>
+
 Building
 ========
 Run `mingw32-make`. Only MinGW-W64 is supported at present.
