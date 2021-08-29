@@ -18,6 +18,10 @@ To fix an infected machine, follow the steps below:
 
 That's it!
 
+Building
+========
+Run `mingw32-make`. Only MinGW-W64 is supported at present.
+
 License
 =======
 This software is distributed under The MIT [License](https://github.com/szzhouxd/BSoDForever/blob/master/LICENSE).
